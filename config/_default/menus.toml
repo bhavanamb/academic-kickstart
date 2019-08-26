@@ -19,9 +19,9 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "CV"
+  url = "#files/cv.pdf"
+  weight = 70
 
 [[main]]
   name = "Contact"

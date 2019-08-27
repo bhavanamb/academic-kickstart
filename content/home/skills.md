@@ -17,12 +17,12 @@ subtitle = ""
 [[feature]]
   icon = "java"
   icon_pack = "fab"
-  name = "Java and J2ee"
+  name = "JavaJ2ee"
    
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
-  name = "Java Script"
+  name = "JavaScript"
    
 [[feature]]
   icon = "html5"

@@ -37,7 +37,7 @@ subtitle = ""
   name = "Angular"
   
   [[feature]]
-  icon = "css3-alt"
+  icon = "css3"
   icon_pack = "fab"
   name = "CSS"
   

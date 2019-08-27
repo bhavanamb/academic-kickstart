@@ -18,14 +18,12 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java and J2ee"
-  
-  
+   
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "Java Script"
    
-  
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
@@ -36,7 +34,7 @@ subtitle = ""
   icon_pack = "fab"
   name = "Angular"
   
-  [[feature]]
+[[feature]]
   icon = "css3"
   icon_pack = "fab"
   name = "CSS"

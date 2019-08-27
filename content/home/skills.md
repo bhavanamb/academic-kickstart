@@ -13,31 +13,6 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
-[[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "JavaJ2ee"
-   
-[[feature]]
-  icon = "js-square"
-  icon_pack = "fab"
-  name = "JavaScript"
-   
-[[feature]]
-  icon = "html5"
-  icon_pack = "fab"
-  name = "HTML"
-
-[[feature]]
-  icon = "angular"
-  icon_pack = "fab"
-  name = "Angular"
-  
-[[feature]]
-  icon = "css3"
-  icon_pack = "fab"
-  name = "CSS"
   
 
 +++
